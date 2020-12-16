@@ -1,0 +1,36 @@
+y' = 2*y
+
+Error Reduction Rate of Explicit Euler Method
+n = 1000:	h = 0.002, mean error = -0.082
+n = 2000:	h = 0.001, mean error = -0.041
+Reduction Rate: 50.107571%
+>> 
+
+Error Reduction Rate of Implicit Euler Method
+n = 1000:	h = 0.002, mean error = 0.083
+n = 2000:	h = 0.001, mean error = 0.041
+Reduction Rate: 49.809295%
+>> 
+
+Error Reduction Rate of Crank Nicolson Method
+n = 1000:	h = 0.002, mean error = 0.000055
+n = 2000:	h = 0.001, mean error = 0.000014
+Reduction Rate: 24.979305%
+>> 
+
+Error Reduction Rate of Adams Bashforth Method
+n = 1000:	h = 0.002, mean error = -0.000274
+n = 2000:	h = 0.001, mean error = -0.000069
+Reduction Rate: 25.026156%
+
+Error Reduction Rate of Runge Kutta Method
+n = 1000:	h = 0.002, mean error = -0.000
+n = 2000:	h = 0.001, mean error = -0.000
+Reduction Rate: 25.016965%
+
+
+
+
+
+
+
