@@ -1,5 +1,5 @@
 %% Numerical Analysis MATLAB
-% Author: Choi Won Bin (B3)
+% Author: Won Bin Choi (B3)
 % E-mail: dc07650@naver.com
 % Organization: Sogang University(Korea, Republic of), Mechanical Engineering
 % Date: September 10, 2020
