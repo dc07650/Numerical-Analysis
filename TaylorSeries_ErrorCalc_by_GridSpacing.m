@@ -1,11 +1,11 @@
-% Author: Choi Won Bin (20171899)
+%% Numerical Analysis MATLAB
+% Author: Won Bin Choi (B3)
 % E-mail: dc07650@naver.com
-% Organization: Sogang University, Mechanical Engineering
+% Organization: Sogang University(Korea, Republic of), Mechanical Engineering
 % Date: September 10, 2020
 
 %% Initialization
-clear all; close all; clc
-syms x;
+clear all; close all; clc; syms x;
 n = 3; % Number of grid space utilized
 
 %% Input original function
