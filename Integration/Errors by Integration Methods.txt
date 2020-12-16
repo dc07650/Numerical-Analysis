@@ -1,0 +1,71 @@
+Target function: tan(x)
+Lower bound: 0
+Upper bound: 1
+Number of intervals: 30
+Integration using Trapezoidal Method
+Range: 0.00 ~ 1.00 	 Intervals: 30
+Actual Value 		=	 0.615626
+Integrated Value 	=	 0.615851
+Error value(Approximated - Real) = 0.000224
+Error ratio(Error value/Real) = 0.036466 %
+>> 
+
+Target function: tan(x)
+Lower bound: 0
+Upper bound: 1
+Number of intervals (2k): 30
+Integration using Simpson's 1/3 Method
+Range: 0.00 ~ 1.00 	 Intervals: 30
+Actual Value 		=	 0.615626
+Integrated Value 	=	 0.615627
+Error value(Approximated - Real) = 0.000000
+Error ratio(Error value/Real) = 0.000060 %
+>> 
+
+Target function: tan(x)
+Lower bound: 0
+Upper bound: 1
+Number of intervals (3k): 30
+Integration using Simpson's 3/8 Method
+Range: 0.00 ~ 1.00 	 Intervals: 30
+Actual Value 		=	 0.615626
+Integrated Value 	=	 0.615627
+Error value(Approximated - Real) = 0.000001
+Error ratio(Error value/Real) = 0.000135 %
+>> 
+
+Target function: tan(x)
+Lower bound: 0
+Upper bound: 1
+Number of intervals: 30
+Integration using Trapezoidal Method with Richardson's Extrapolation
+Range: 0.00 ~ 1.00 	 Intervals: 30
+Actual Value 		=	 0.615626
+Integrated Value 	=	 0.615626
+Error value(Approximated - Real) = 0.000000
+Error ratio(Error value/Real) = 0.000004 %
+>> 
+
+Target function: tan(x)
+Lower bound: 0
+Upper bound: 1
+Number of intervals (2k): 30
+Integration using Simpson's 1/3 Method with Richardson's Extrapolation
+Range: 0.00 ~ 1.00 	 Intervals: 30
+Actual Value 		=	 0.615626
+Integrated Value 	=	 0.615626
+Error value(Approximated - Real) = 0.000000
+Error ratio(Error value/Real) = 0.000000 %
+>> 
+
+Target function: tan(x)
+Lower bound: 0
+Upper bound: 1
+Number of intervals (3k): 30
+Integration using Simpson's 3/8 Method with Richardson's Extrapolation
+Range: 0.00 ~ 1.00 	 Intervals: 30
+Actual Value 		=	 0.615626
+Integrated Value 	=	 0.615626
+Error value(Approximated - Real) = 0.000000
+Error ratio(Error value/Real) = 0.000000 %
+>> 
