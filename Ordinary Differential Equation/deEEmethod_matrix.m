@@ -15,7 +15,8 @@ tn = lset:h:rset;
 [t x]  = ode45(@mck, tn, init_x');
 
 %% Numerical
-a = [0 1; -25 -5];
+a = [0 1; -9 -10];
+eig(a)
 yn = zeros(2,n);
 yn(:,1) = init_x;
 for i = 1:n
