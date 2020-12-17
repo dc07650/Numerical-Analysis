@@ -4,7 +4,7 @@
 % Organization: Sogang University(Korea, Republic of), Mechanical Engineering
 % Date: November 12, 2020
 %% Initialize
-close all; clear all; clc;
+close all; clq; clc;
 syms y; syms x;
 lambda = 2; n = 1000;
 lset = 0; rset = 2;
